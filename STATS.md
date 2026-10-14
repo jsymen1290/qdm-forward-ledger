@@ -1,6 +1,6 @@
 # QDM v0.4.1 forward ledger summary
 
-Generated 2026-10-14T11:16:04Z. Raw direction calls, non-overlapping 5-bar outcomes, 0.25% round-trip cost.
+Generated 2026-10-14T11:26:09Z. Raw direction calls, non-overlapping 5-bar outcomes, 0.25% round-trip cost.
 A lane passes only with >= 30 calls and a net-hit Wilson lower bound above 50%.
 This is a record, not a performance promise.
 
