@@ -1,0 +1,123 @@
+{
+ "generated_at_utc": "2026-10-14T11:16:04Z",
+ "cost_round_trip": 0.0025,
+ "lanes": [
+  {
+   "lane": "GATE:BTCUSDT.P|15m",
+   "predictions": 72,
+   "resolved": 67,
+   "calls": 6,
+   "hits": 4,
+   "net_hits": 1,
+   "net_wilson_lo": 0.030053369748306632,
+   "net_wilson_hi": 0.5635028221864702,
+   "first_bar": "2026-10-13T17:15:00Z",
+   "last_bar": "2026-10-14T11:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:BTCUSDT.P|1h",
+   "predictions": 19,
+   "resolved": 14,
+   "calls": 2,
+   "hits": 0,
+   "net_hits": 0,
+   "net_wilson_lo": 0.0,
+   "net_wilson_hi": 0.6576197724933469,
+   "first_bar": "2026-10-13T16:00:00Z",
+   "last_bar": "2026-10-14T10:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:BTCUSDT.P|4h",
+   "predictions": 5,
+   "resolved": 0,
+   "calls": 0,
+   "hits": 0,
+   "net_hits": 0,
+   "net_wilson_lo": null,
+   "net_wilson_hi": null,
+   "first_bar": "2026-10-13T12:00:00Z",
+   "last_bar": "2026-10-14T04:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:ETHUSDT.P|15m",
+   "predictions": 72,
+   "resolved": 67,
+   "calls": 4,
+   "hits": 0,
+   "net_hits": 0,
+   "net_wilson_lo": 0.0,
+   "net_wilson_hi": 0.4898908364545973,
+   "first_bar": "2026-10-13T17:15:00Z",
+   "last_bar": "2026-10-14T11:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:ETHUSDT.P|1h",
+   "predictions": 19,
+   "resolved": 14,
+   "calls": 1,
+   "hits": 1,
+   "net_hits": 1,
+   "net_wilson_lo": 0.20654931437723742,
+   "net_wilson_hi": 1.0,
+   "first_bar": "2026-10-13T16:00:00Z",
+   "last_bar": "2026-10-14T10:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:ETHUSDT.P|4h",
+   "predictions": 5,
+   "resolved": 0,
+   "calls": 0,
+   "hits": 0,
+   "net_hits": 0,
+   "net_wilson_lo": null,
+   "net_wilson_hi": null,
+   "first_bar": "2026-10-13T12:00:00Z",
+   "last_bar": "2026-10-14T04:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:SOLUSDT.P|15m",
+   "predictions": 72,
+   "resolved": 67,
+   "calls": 9,
+   "hits": 6,
+   "net_hits": 1,
+   "net_wilson_lo": 0.019890887638544918,
+   "net_wilson_hi": 0.434999705576656,
+   "first_bar": "2026-10-13T17:15:00Z",
+   "last_bar": "2026-10-14T11:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:SOLUSDT.P|1h",
+   "predictions": 19,
+   "resolved": 14,
+   "calls": 0,
+   "hits": 0,
+   "net_hits": 0,
+   "net_wilson_lo": null,
+   "net_wilson_hi": null,
+   "first_bar": "2026-10-13T16:00:00Z",
+   "last_bar": "2026-10-14T10:00:00Z",
+   "pass": false
+  },
+  {
+   "lane": "GATE:SOLUSDT.P|4h",
+   "predictions": 5,
+   "resolved": 0,
+   "calls": 0,
+   "hits": 0,
+   "net_hits": 0,
+   "net_wilson_lo": null,
+   "net_wilson_hi": null,
+   "first_bar": "2026-10-13T12:00:00Z",
+   "last_bar": "2026-10-14T04:00:00Z",
+   "pass": false
+  }
+ ]
+}
